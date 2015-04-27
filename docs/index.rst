@@ -27,3 +27,5 @@ General guides to using Django Dashing.
    Getting Started <getting-started>
    Dashboards <dashboards>
    Widgets <widgets>
+
+You are a pleb
